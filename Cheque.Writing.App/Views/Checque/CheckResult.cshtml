@@ -1,0 +1,14 @@
+﻿@model Cheque.Writing.App.Models.ChecqueResultViewModel
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>CheckWriter</h2>
+<table>
+    <tr>
+        <td>Name :@Html.Label(Model.Name)</td>
+    </tr>
+    <tr>
+        <td>Amount :@Html.Label(Model.AmountInWords)</td>       
+    </tr>    
+</table>

@@ -1,0 +1,10 @@
+D:\Project-Source\DotNetProjects\ChequeWriting\Cheque.Writing.App.Business\bin\Release\Cheque.Writing.App.Business.dll
+D:\Project-Source\DotNetProjects\ChequeWriting\Cheque.Writing.App.Business\bin\Release\Cheque.Writing.App.Business.pdb
+D:\Project-Source\DotNetProjects\ChequeWriting\Cheque.Writing.App.Business\bin\Release\Cheque.Writing.Common.dll
+D:\Project-Source\DotNetProjects\ChequeWriting\Cheque.Writing.App.Business\bin\Release\Cheque.Writing.Entities.dll
+D:\Project-Source\DotNetProjects\ChequeWriting\Cheque.Writing.App.Business\bin\Release\Cheque.Writing.Common.pdb
+D:\Project-Source\DotNetProjects\ChequeWriting\Cheque.Writing.App.Business\bin\Release\Cheque.Writing.Entities.pdb
+D:\Project-Source\DotNetProjects\ChequeWriting\Cheque.Writing.App.Business\obj\Release\Cheque.Writing.App.Business.csprojResolveAssemblyReference.cache
+D:\Project-Source\DotNetProjects\ChequeWriting\Cheque.Writing.App.Business\obj\Release\Cheque.Writing.App.Business.csproj.CoreCompileInputs.cache
+D:\Project-Source\DotNetProjects\ChequeWriting\Cheque.Writing.App.Business\obj\Release\Cheque.Writing.App.Business.dll
+D:\Project-Source\DotNetProjects\ChequeWriting\Cheque.Writing.App.Business\obj\Release\Cheque.Writing.App.Business.pdb

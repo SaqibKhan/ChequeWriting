@@ -1,0 +1,2 @@
+D:\Project-Source\DotNetProjects\ChequeWriting\Cheque.Writing.WebAPI\obj\Release\Cheque.Writing.WebAPI.csprojResolveAssemblyReference.cache
+D:\Project-Source\DotNetProjects\ChequeWriting\Cheque.Writing.WebAPI\obj\Release\Cheque.Writing.WebAPI.csproj.CoreCompileInputs.cache

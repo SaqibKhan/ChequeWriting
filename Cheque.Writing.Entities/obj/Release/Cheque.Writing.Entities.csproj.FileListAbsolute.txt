@@ -1,0 +1,5 @@
+D:\Project-Source\DotNetProjects\ChequeWriting\Cheque.Writing.Entities\bin\Release\Cheque.Writing.Entities.dll
+D:\Project-Source\DotNetProjects\ChequeWriting\Cheque.Writing.Entities\bin\Release\Cheque.Writing.Entities.pdb
+D:\Project-Source\DotNetProjects\ChequeWriting\Cheque.Writing.Entities\obj\Release\Cheque.Writing.Entities.csproj.CoreCompileInputs.cache
+D:\Project-Source\DotNetProjects\ChequeWriting\Cheque.Writing.Entities\obj\Release\Cheque.Writing.Entities.dll
+D:\Project-Source\DotNetProjects\ChequeWriting\Cheque.Writing.Entities\obj\Release\Cheque.Writing.Entities.pdb

@@ -1,0 +1,5 @@
+D:\Project-Source\DotNetProjects\ChequeWriting\Cheque.Writing.Common\bin\Release\Cheque.Writing.Common.dll
+D:\Project-Source\DotNetProjects\ChequeWriting\Cheque.Writing.Common\bin\Release\Cheque.Writing.Common.pdb
+D:\Project-Source\DotNetProjects\ChequeWriting\Cheque.Writing.Common\obj\Release\Cheque.Writing.Common.csproj.CoreCompileInputs.cache
+D:\Project-Source\DotNetProjects\ChequeWriting\Cheque.Writing.Common\obj\Release\Cheque.Writing.Common.dll
+D:\Project-Source\DotNetProjects\ChequeWriting\Cheque.Writing.Common\obj\Release\Cheque.Writing.Common.pdb

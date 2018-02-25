@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cheque.Writing.App", "Cheque.Writing.App\Cheque.Writing.App.csproj", "{A9C89766-BC87-41A9-9006-E80CEDCB2959}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cheque.Writing.WebAPI", "Cheque.Writing.WebAPI\Cheque.Writing.WebAPI.csproj", "{F68E0DC0-85F9-47BD-AE77-1AE8AD5D8D97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cheque.Writing.Entities", "Cheque.Writing.Entities\Cheque.Writing.Entities.csproj", "{608A835E-B350-4866-9D2E-5795AF19DBF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cheque.Writing.App.Business", "Cheque.Writing.App.Business\Cheque.Writing.App.Business.csproj", "{B2960340-4A8A-478D-98A6-475E9CBD3EDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cheque.Writing.Common", "Cheque.Writing.Common\Cheque.Writing.Common.csproj", "{CC196457-B930-44CF-BA15-57D50F3E68DC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{E9DCF746-5D76-4150-9DAE-C563AC1A40AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cheque.Writing.WebAPI.Tests", "Cheque.Writing.WebAPI.Tests\Cheque.Writing.WebAPI.Tests.csproj", "{5376F7FF-9A4B-4C7F-9761-0805ED736679}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9C89766-BC87-41A9-9006-E80CEDCB2959}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9C89766-BC87-41A9-9006-E80CEDCB2959}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9C89766-BC87-41A9-9006-E80CEDCB2959}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9C89766-BC87-41A9-9006-E80CEDCB2959}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F68E0DC0-85F9-47BD-AE77-1AE8AD5D8D97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F68E0DC0-85F9-47BD-AE77-1AE8AD5D8D97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F68E0DC0-85F9-47BD-AE77-1AE8AD5D8D97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F68E0DC0-85F9-47BD-AE77-1AE8AD5D8D97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{608A835E-B350-4866-9D2E-5795AF19DBF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{608A835E-B350-4866-9D2E-5795AF19DBF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{608A835E-B350-4866-9D2E-5795AF19DBF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{608A835E-B350-4866-9D2E-5795AF19DBF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2960340-4A8A-478D-98A6-475E9CBD3EDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2960340-4A8A-478D-98A6-475E9CBD3EDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2960340-4A8A-478D-98A6-475E9CBD3EDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2960340-4A8A-478D-98A6-475E9CBD3EDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC196457-B930-44CF-BA15-57D50F3E68DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC196457-B930-44CF-BA15-57D50F3E68DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC196457-B930-44CF-BA15-57D50F3E68DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC196457-B930-44CF-BA15-57D50F3E68DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5376F7FF-9A4B-4C7F-9761-0805ED736679}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5376F7FF-9A4B-4C7F-9761-0805ED736679}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5376F7FF-9A4B-4C7F-9761-0805ED736679}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5376F7FF-9A4B-4C7F-9761-0805ED736679}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5376F7FF-9A4B-4C7F-9761-0805ED736679} = {E9DCF746-5D76-4150-9DAE-C563AC1A40AA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E644831C-6B36-4788-B189-D56A6C463B64}
+	EndGlobalSection
+EndGlobal

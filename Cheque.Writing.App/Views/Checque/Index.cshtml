@@ -1,0 +1,31 @@
+﻿@model Cheque.Writing.App.Models.ChequeRequestViewModel
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Please Enter the Name and Amount</h2>
+
+
+@using (Html.BeginForm("TranslateCheck", "Checque", FormMethod.Post))
+{
+    <table>
+        <tr>
+            <td>@Html.LabelFor(m => m.Name)</td>
+            <td>@Html.TextBoxFor(m => m.Name, new { @class = "form-control",@required = "required"})</td>
+            <td> @Html.ValidationMessageFor(x => x.Name, "", new { @class = "text-danger" })</td>
+                
+
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(m => m.Amount)</td>
+            <td>@Html.TextBoxFor(m => m.Amount, new { @type = "number", @step = "0.01", @class = "form-control",@maxlength = "10", @placeholder = "0.00", @required = "required", @title = "Please Enter Amount e.g. 250000.36" })</td>
+            <td> @Html.ValidationMessageFor(x => x.Amount, "", new { @class = "text-danger" })</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><input type="submit" value="Submit" /></td>
+            <td></td>
+        </tr>
+    </table>
+}
+

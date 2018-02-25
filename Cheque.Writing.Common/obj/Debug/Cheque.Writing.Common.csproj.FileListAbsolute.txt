@@ -1,0 +1,10 @@
+D:\Project-Source\DotNetProjects\ChequeWriting\Cheque.Writing.Common\bin\Debug\Cheque.Writing.Common.dll
+D:\Project-Source\DotNetProjects\ChequeWriting\Cheque.Writing.Common\bin\Debug\Cheque.Writing.Common.pdb
+D:\Project-Source\DotNetProjects\ChequeWriting\Cheque.Writing.Common\obj\Debug\Cheque.Writing.Common.csproj.CoreCompileInputs.cache
+D:\Project-Source\DotNetProjects\ChequeWriting\Cheque.Writing.Common\obj\Debug\Cheque.Writing.Common.dll
+D:\Project-Source\DotNetProjects\ChequeWriting\Cheque.Writing.Common\obj\Debug\Cheque.Writing.Common.pdb
+D:\Project-Source\DotNetProjects\ChequeWritingApp\Cheque.Writing.Common\bin\Debug\Cheque.Writing.Common.dll
+D:\Project-Source\DotNetProjects\ChequeWritingApp\Cheque.Writing.Common\bin\Debug\Cheque.Writing.Common.pdb
+D:\Project-Source\DotNetProjects\ChequeWritingApp\Cheque.Writing.Common\obj\Debug\Cheque.Writing.Common.csproj.CoreCompileInputs.cache
+D:\Project-Source\DotNetProjects\ChequeWritingApp\Cheque.Writing.Common\obj\Debug\Cheque.Writing.Common.dll
+D:\Project-Source\DotNetProjects\ChequeWritingApp\Cheque.Writing.Common\obj\Debug\Cheque.Writing.Common.pdb
