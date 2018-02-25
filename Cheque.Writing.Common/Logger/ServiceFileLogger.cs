@@ -24,7 +24,7 @@ namespace Cheque.Writing.Common.Logger
         public ServiceFileLogger(bool append = true)
         {
              string appDataFolder = HttpContext.Current.Server.MapPath("~/App_Data/");
-            _fileName = string.Format("{0}\\Platypus{1}.log",appDataFolder, DateTime.Now.ToString("MM-dd-yy"));
+            _fileName = string.Format("{0}\\Log{1}.log",appDataFolder, DateTime.Now.ToString("MM-dd-yy"));
 
             // Log file header line
             string logHeader = $"Creating a file {_fileName}";
